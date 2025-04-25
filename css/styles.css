@@ -134,6 +134,7 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7),
 background-repeat: no-repeat;
 background-position: center, center;
 background-size: cover;
+margin: 0 auto;
 }
 
 .heading-main {color: #FFFFFF;
@@ -214,6 +215,8 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 6px 0 rgba(46, 47, 66, 0.08);}
 
 .section-team .second-heading {margin-bottom: 72px;}
+
+.section-team-people p {margin-bottom: 8px;}
 
 .section-team-list {
     display: flex;
